@@ -1,2 +1,2 @@
-# The Art of FinOps
- The Art of FinOps, by BPB Publications
+# FinOps: RoadMap to Cloud Efficiency
+FinOps: RoadMap to Cloud Efficiency, by BPB Publications
