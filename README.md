@@ -3,7 +3,7 @@
 Accelerate Business Value Realization and Drive Financial Accountability for Cloud Infrastructure
 
 This is the repository for [FinOps : RoadMap to Cloud Efficiency
-](https://in.bpbonline.com/products/finops-roadmap-to-cloud-efficiency?_pos=1&_sid=0e78bb16b&_ss=r&variant=43649110638830),published by BPB Publications. 
+](https://bpbonline.com/products/finops-roadmap-to-cloud-efficiency),published by BPB Publications. 
 
 ## About the Book
 FinOps is a novel cloud operating model that uses interdisciplinary teams to manage cloud expenditures in concert. With the help of the tools, best practices, and culture introduced in this book, businesses can analyze cloud expenses and make strategic decisions in a better way. The book's ultimate objective is to teach companies how to establish a reasonable cost, speed, and quality balance in the cloud.
